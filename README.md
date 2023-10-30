@@ -1,4 +1,4 @@
-### Hi 👋, I'm Riwane !
+# Hi 👋, I'm Riwane !
 
 # 💫 About Me:
 🔭 I'm currently working on personal projects<br>🌱 I'm strengthening my learning on React and Javascript<br>💼 I'm open to permanent contracts
